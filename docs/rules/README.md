@@ -26,7 +26,6 @@ Enforce all the rules in this category, as well as all higher priority rules, wi
 |:--------|:------------|:---|
 | [vue/comment-directive](./comment-directive.md) | support comment-directives in `<template>` |  |
 | [vue/jsx-uses-vars](./jsx-uses-vars.md) | prevent variables used in JSX to be marked as unused |  |
-| [vue/script-setup-uses-vars](./script-setup-uses-vars.md) | prevent `<script setup>` variables used in `<template>` to be marked as unused |  |
 
 ## Priority A: Essential (Error Prevention) <badge text="for Vue.js 3.x" vertical="middle">for Vue.js 3.x</badge>
 
@@ -420,3 +419,4 @@ The following rules extend the rules provided by ESLint itself and apply them to
 | [vue/name-property-casing](./name-property-casing.md) | [vue/component-definition-name-casing](./component-definition-name-casing.md) |
 | [vue/no-confusing-v-for-v-if](./no-confusing-v-for-v-if.md) | [vue/no-use-v-if-with-v-for](./no-use-v-if-with-v-for.md) |
 | [vue/no-unregistered-components](./no-unregistered-components.md) | [vue/no-undef-components](./no-undef-components.md) |
+| [vue/script-setup-uses-vars](./script-setup-uses-vars.md) | (no replacement) |
